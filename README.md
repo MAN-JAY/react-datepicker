@@ -6,6 +6,8 @@
 [![Downloads](https://img.shields.io/npm/dm/react-datepicker.svg)](https://npmjs.org/package/react-datepicker)
 
 A simple and reusable Datepicker component for React with Holiday
+
+
 ![Screenshot from 2023-08-18 04-21-34](https://github.com/MAN-JAY/react-datepicker/assets/22654580/1a125863-2a2d-4ba0-bb12-002b4e56983d)
 
 
