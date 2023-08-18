@@ -5,8 +5,8 @@
 [![codecov](https://codecov.io/gh/Hacker0x01/react-datepicker/branch/main/graph/badge.svg)](https://codecov.io/gh/Hacker0x01/react-datepicker)
 [![Downloads](https://img.shields.io/npm/dm/react-datepicker.svg)](https://npmjs.org/package/react-datepicker)
 
-A simple and reusable Datepicker component for React with Holiday
-![Screenshot from 2023-08-18 04-21-34](https://github.com/MAN-JAY/react-datepicker/assets/22654580/21ec56a2-add6-4cb2-a0e3-5d9ede154a3c)
+A simple and reusable Datepicker component for React with Holiday![Screenshot from 2023-08-18 04-21-34](https://github.com/MAN-JAY/react-datepicker/assets/22654580/1a125863-2a2d-4ba0-bb12-002b4e56983d)
+
 
 ## Installation
 
